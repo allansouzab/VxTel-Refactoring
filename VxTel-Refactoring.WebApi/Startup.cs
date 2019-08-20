@@ -10,6 +10,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
+using VxTel_Refactoring.Domain.Plano;
 
 namespace VxTel_Refactoring.WebApi
 {
@@ -26,6 +27,9 @@ namespace VxTel_Refactoring.WebApi
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+
+            services.AddMvc();
+            services.AddSingleton<ICalcula, Calcula>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

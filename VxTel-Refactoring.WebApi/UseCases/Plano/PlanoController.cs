@@ -20,7 +20,7 @@ namespace VxTel_Refactoring.WebApi.UseCases.Plano
             _calcula = calcula;
         }
 
-        [HttpGet]
+        [HttpGet("Calcular/{origem}/{destino}/{tempo}/{plano}")]
         public ActionResult CalculaValor(int origem, int destino, int tempo, int plano)
         {
             var resultado = new
