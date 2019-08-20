@@ -1,0 +1,17 @@
+C:\Users\allan\source\repos\VxTel-Refactoring\VxTel-Refactoring.WebApi\bin\Debug\netcoreapp2.1\VxTel-Refactoring.WebApi.deps.json
+C:\Users\allan\source\repos\VxTel-Refactoring\VxTel-Refactoring.WebApi\bin\Debug\netcoreapp2.1\VxTel-Refactoring.WebApi.runtimeconfig.json
+C:\Users\allan\source\repos\VxTel-Refactoring\VxTel-Refactoring.WebApi\bin\Debug\netcoreapp2.1\VxTel-Refactoring.WebApi.runtimeconfig.dev.json
+C:\Users\allan\source\repos\VxTel-Refactoring\VxTel-Refactoring.WebApi\bin\Debug\netcoreapp2.1\VxTel-Refactoring.WebApi.dll
+C:\Users\allan\source\repos\VxTel-Refactoring\VxTel-Refactoring.WebApi\obj\Debug\netcoreapp2.1\VxTel-Refactoring.WebApi.csprojAssemblyReference.cache
+C:\Users\allan\source\repos\VxTel-Refactoring\VxTel-Refactoring.WebApi\obj\Debug\netcoreapp2.1\VxTel-Refactoring.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\allan\source\repos\VxTel-Refactoring\VxTel-Refactoring.WebApi\obj\Debug\netcoreapp2.1\VxTel-Refactoring.WebApi.RazorAssemblyInfo.cache
+C:\Users\allan\source\repos\VxTel-Refactoring\VxTel-Refactoring.WebApi\obj\Debug\netcoreapp2.1\VxTel-Refactoring.WebApi.RazorAssemblyInfo.cs
+C:\Users\allan\source\repos\VxTel-Refactoring\VxTel-Refactoring.WebApi\obj\Debug\netcoreapp2.1\VxTel-Refactoring.WebApi.AssemblyInfoInputs.cache
+C:\Users\allan\source\repos\VxTel-Refactoring\VxTel-Refactoring.WebApi\obj\Debug\netcoreapp2.1\VxTel-Refactoring.WebApi.AssemblyInfo.cs
+C:\Users\allan\source\repos\VxTel-Refactoring\VxTel-Refactoring.WebApi\obj\Debug\netcoreapp2.1\VxTel-Refactoring.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\allan\source\repos\VxTel-Refactoring\VxTel-Refactoring.WebApi\bin\Debug\netcoreapp2.1\VxTel-Refactoring.WebApi.pdb
+C:\Users\allan\source\repos\VxTel-Refactoring\VxTel-Refactoring.WebApi\obj\Debug\netcoreapp2.1\VxTel-Refactoring.WebApi.dll
+C:\Users\allan\source\repos\VxTel-Refactoring\VxTel-Refactoring.WebApi\obj\Debug\netcoreapp2.1\VxTel-Refactoring.WebApi.pdb
+C:\Users\allan\source\repos\VxTel-Refactoring\VxTel-Refactoring.WebApi\bin\Debug\netcoreapp2.1\VxTel-Refactoring.Domain.dll
+C:\Users\allan\source\repos\VxTel-Refactoring\VxTel-Refactoring.WebApi\bin\Debug\netcoreapp2.1\VxTel-Refactoring.Domain.pdb
+C:\Users\allan\source\repos\VxTel-Refactoring\VxTel-Refactoring.WebApi\obj\Debug\netcoreapp2.1\VxTel-Refactoring.WebApi.csproj.CopyComplete

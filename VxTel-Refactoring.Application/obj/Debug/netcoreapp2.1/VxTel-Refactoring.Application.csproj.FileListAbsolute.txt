@@ -1,0 +1,9 @@
+C:\Users\allan\source\repos\VxTel-Refactoring\VxTel-Refactoring.Application\bin\Debug\netcoreapp2.1\VxTel-Refactoring.Application.deps.json
+C:\Users\allan\source\repos\VxTel-Refactoring\VxTel-Refactoring.Application\bin\Debug\netcoreapp2.1\VxTel-Refactoring.Application.dll
+C:\Users\allan\source\repos\VxTel-Refactoring\VxTel-Refactoring.Application\bin\Debug\netcoreapp2.1\VxTel-Refactoring.Application.pdb
+C:\Users\allan\source\repos\VxTel-Refactoring\VxTel-Refactoring.Application\obj\Debug\netcoreapp2.1\VxTel-Refactoring.Application.csprojAssemblyReference.cache
+C:\Users\allan\source\repos\VxTel-Refactoring\VxTel-Refactoring.Application\obj\Debug\netcoreapp2.1\VxTel-Refactoring.Application.csproj.CoreCompileInputs.cache
+C:\Users\allan\source\repos\VxTel-Refactoring\VxTel-Refactoring.Application\obj\Debug\netcoreapp2.1\VxTel-Refactoring.Application.AssemblyInfoInputs.cache
+C:\Users\allan\source\repos\VxTel-Refactoring\VxTel-Refactoring.Application\obj\Debug\netcoreapp2.1\VxTel-Refactoring.Application.AssemblyInfo.cs
+C:\Users\allan\source\repos\VxTel-Refactoring\VxTel-Refactoring.Application\obj\Debug\netcoreapp2.1\VxTel-Refactoring.Application.dll
+C:\Users\allan\source\repos\VxTel-Refactoring\VxTel-Refactoring.Application\obj\Debug\netcoreapp2.1\VxTel-Refactoring.Application.pdb
